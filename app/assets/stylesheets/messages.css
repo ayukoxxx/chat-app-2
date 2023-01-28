@@ -16,7 +16,7 @@
   align-items: center;
 }
 
-.header-name{
+.header-name a{
   color:#FAFAFA;
   font-size: 16px;
   text-decoration: none;
